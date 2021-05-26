@@ -1,0 +1,7 @@
+C:\Users\MAIN\source\repos\Week2A\Week2A\bin\Debug\Week2A.exe.config
+C:\Users\MAIN\source\repos\Week2A\Week2A\bin\Debug\Week2A.exe
+C:\Users\MAIN\source\repos\Week2A\Week2A\bin\Debug\Week2A.pdb
+C:\Users\MAIN\source\repos\Week2A\Week2A\obj\Debug\Week2A.csprojAssemblyReference.cache
+C:\Users\MAIN\source\repos\Week2A\Week2A\obj\Debug\Week2A.csproj.CoreCompileInputs.cache
+C:\Users\MAIN\source\repos\Week2A\Week2A\obj\Debug\Week2A.exe
+C:\Users\MAIN\source\repos\Week2A\Week2A\obj\Debug\Week2A.pdb

@@ -1,0 +1,6 @@
+C:\Users\MAIN\source\repos\Week2_lab\Week2_lab\bin\Debug\Week2_lab.exe.config
+C:\Users\MAIN\source\repos\Week2_lab\Week2_lab\bin\Debug\Week2_lab.exe
+C:\Users\MAIN\source\repos\Week2_lab\Week2_lab\bin\Debug\Week2_lab.pdb
+C:\Users\MAIN\source\repos\Week2_lab\Week2_lab\obj\Debug\Week2_lab.csproj.CoreCompileInputs.cache
+C:\Users\MAIN\source\repos\Week2_lab\Week2_lab\obj\Debug\Week2_lab.exe
+C:\Users\MAIN\source\repos\Week2_lab\Week2_lab\obj\Debug\Week2_lab.pdb
