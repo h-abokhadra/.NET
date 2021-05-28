@@ -1,0 +1,2 @@
+C:\Users\MAIN\Box\Sheridan College\Summer 2021\PROG32356\Projects\AccountApp\AccountApp\obj\Debug\AccountApp.csprojAssemblyReference.cache
+C:\Users\MAIN\Box\Sheridan College\Summer 2021\PROG32356\Projects\AccountApp\AccountApp\obj\Debug\AccountApp.csproj.CoreCompileInputs.cache

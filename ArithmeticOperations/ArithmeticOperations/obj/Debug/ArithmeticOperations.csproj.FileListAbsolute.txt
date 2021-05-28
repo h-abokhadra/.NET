@@ -1,0 +1,7 @@
+C:\Users\MAIN\Box\Sheridan College\Summer 2021\PROG32356\Projects\ArithmeticOperations\ArithmeticOperations\bin\Debug\ArithmeticOperations.exe.config
+C:\Users\MAIN\Box\Sheridan College\Summer 2021\PROG32356\Projects\ArithmeticOperations\ArithmeticOperations\bin\Debug\ArithmeticOperations.exe
+C:\Users\MAIN\Box\Sheridan College\Summer 2021\PROG32356\Projects\ArithmeticOperations\ArithmeticOperations\bin\Debug\ArithmeticOperations.pdb
+C:\Users\MAIN\Box\Sheridan College\Summer 2021\PROG32356\Projects\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.csprojAssemblyReference.cache
+C:\Users\MAIN\Box\Sheridan College\Summer 2021\PROG32356\Projects\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.csproj.CoreCompileInputs.cache
+C:\Users\MAIN\Box\Sheridan College\Summer 2021\PROG32356\Projects\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.exe
+C:\Users\MAIN\Box\Sheridan College\Summer 2021\PROG32356\Projects\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.pdb
