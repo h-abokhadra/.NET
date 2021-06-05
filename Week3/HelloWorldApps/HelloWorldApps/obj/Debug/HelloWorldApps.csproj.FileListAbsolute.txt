@@ -1,0 +1,11 @@
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 3\Week 3B\Class Apps\HelloWorldApps\HelloWorldApps\bin\Debug\HelloWorldApps.exe.config
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 3\Week 3B\Class Apps\HelloWorldApps\HelloWorldApps\bin\Debug\HelloWorldApps.exe
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 3\Week 3B\Class Apps\HelloWorldApps\HelloWorldApps\bin\Debug\HelloWorldApps.pdb
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 3\Week 3B\Class Apps\HelloWorldApps\HelloWorldApps\obj\Debug\HelloWorldApps.csprojAssemblyReference.cache
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 3\Week 3B\Class Apps\HelloWorldApps\HelloWorldApps\obj\Debug\HelloWorldApps.Form1.resources
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 3\Week 3B\Class Apps\HelloWorldApps\HelloWorldApps\obj\Debug\HelloWorldApps.Properties.Resources.resources
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 3\Week 3B\Class Apps\HelloWorldApps\HelloWorldApps\obj\Debug\HelloWorldApps.csproj.GenerateResource.cache
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 3\Week 3B\Class Apps\HelloWorldApps\HelloWorldApps\obj\Debug\HelloWorldApps.csproj.CoreCompileInputs.cache
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 3\Week 3B\Class Apps\HelloWorldApps\HelloWorldApps\obj\Debug\HelloWorldApps.exe
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 3\Week 3B\Class Apps\HelloWorldApps\HelloWorldApps\obj\Debug\HelloWorldApps.pdb
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 3\Week 3B\Class Apps\HelloWorldApps\HelloWorldApps\obj\Debug\HelloWorldApps.Form2.resources
