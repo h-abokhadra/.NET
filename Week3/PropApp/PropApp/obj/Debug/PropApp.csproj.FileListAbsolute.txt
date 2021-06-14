@@ -1,0 +1,10 @@
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 4\Week 4B\Class Apps\PropApp\PropApp\bin\Debug\PropApp.exe.config
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 4\Week 4B\Class Apps\PropApp\PropApp\bin\Debug\PropApp.exe
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 4\Week 4B\Class Apps\PropApp\PropApp\bin\Debug\PropApp.pdb
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 4\Week 4B\Class Apps\PropApp\PropApp\obj\Debug\PropApp.csprojAssemblyReference.cache
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 4\Week 4B\Class Apps\PropApp\PropApp\obj\Debug\PropApp.Form1.resources
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 4\Week 4B\Class Apps\PropApp\PropApp\obj\Debug\PropApp.Properties.Resources.resources
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 4\Week 4B\Class Apps\PropApp\PropApp\obj\Debug\PropApp.csproj.GenerateResource.cache
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 4\Week 4B\Class Apps\PropApp\PropApp\obj\Debug\PropApp.csproj.CoreCompileInputs.cache
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 4\Week 4B\Class Apps\PropApp\PropApp\obj\Debug\PropApp.exe
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 4\Week 4B\Class Apps\PropApp\PropApp\obj\Debug\PropApp.pdb
