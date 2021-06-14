@@ -1,0 +1,10 @@
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 4\Week 4B\Class Apps\PicSlideShow\PicSlideShow\bin\Debug\PicSlideShow.exe.config
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 4\Week 4B\Class Apps\PicSlideShow\PicSlideShow\bin\Debug\PicSlideShow.exe
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 4\Week 4B\Class Apps\PicSlideShow\PicSlideShow\bin\Debug\PicSlideShow.pdb
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 4\Week 4B\Class Apps\PicSlideShow\PicSlideShow\obj\Debug\PicSlideShow.csprojAssemblyReference.cache
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 4\Week 4B\Class Apps\PicSlideShow\PicSlideShow\obj\Debug\PicSlideShow.Form1.resources
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 4\Week 4B\Class Apps\PicSlideShow\PicSlideShow\obj\Debug\PicSlideShow.Properties.Resources.resources
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 4\Week 4B\Class Apps\PicSlideShow\PicSlideShow\obj\Debug\PicSlideShow.csproj.GenerateResource.cache
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 4\Week 4B\Class Apps\PicSlideShow\PicSlideShow\obj\Debug\PicSlideShow.csproj.CoreCompileInputs.cache
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 4\Week 4B\Class Apps\PicSlideShow\PicSlideShow\obj\Debug\PicSlideShow.exe
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 4\Week 4B\Class Apps\PicSlideShow\PicSlideShow\obj\Debug\PicSlideShow.pdb

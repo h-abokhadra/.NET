@@ -1,0 +1,9 @@
+E:\Sheridan\2021 Winter\PROG32356 .NET Technologies using C#\Slides\Week 4\Week 4A\ClassApps\Exercise\Exercise\bin\Debug\Exercise.exe.config
+E:\Sheridan\2021 Winter\PROG32356 .NET Technologies using C#\Slides\Week 4\Week 4A\ClassApps\Exercise\Exercise\bin\Debug\Exercise.exe
+E:\Sheridan\2021 Winter\PROG32356 .NET Technologies using C#\Slides\Week 4\Week 4A\ClassApps\Exercise\Exercise\bin\Debug\Exercise.pdb
+E:\Sheridan\2021 Winter\PROG32356 .NET Technologies using C#\Slides\Week 4\Week 4A\ClassApps\Exercise\Exercise\obj\Debug\Exercise.Form1.resources
+E:\Sheridan\2021 Winter\PROG32356 .NET Technologies using C#\Slides\Week 4\Week 4A\ClassApps\Exercise\Exercise\obj\Debug\Exercise.Properties.Resources.resources
+E:\Sheridan\2021 Winter\PROG32356 .NET Technologies using C#\Slides\Week 4\Week 4A\ClassApps\Exercise\Exercise\obj\Debug\Exercise.csproj.GenerateResource.cache
+E:\Sheridan\2021 Winter\PROG32356 .NET Technologies using C#\Slides\Week 4\Week 4A\ClassApps\Exercise\Exercise\obj\Debug\Exercise.csproj.CoreCompileInputs.cache
+E:\Sheridan\2021 Winter\PROG32356 .NET Technologies using C#\Slides\Week 4\Week 4A\ClassApps\Exercise\Exercise\obj\Debug\Exercise.exe
+E:\Sheridan\2021 Winter\PROG32356 .NET Technologies using C#\Slides\Week 4\Week 4A\ClassApps\Exercise\Exercise\obj\Debug\Exercise.pdb

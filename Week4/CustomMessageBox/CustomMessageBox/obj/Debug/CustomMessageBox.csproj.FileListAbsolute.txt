@@ -1,0 +1,10 @@
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 4\Week 4B\Class Apps\CustomMessageBox\CustomMessageBox\bin\Debug\CustomMessageBox.exe.config
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 4\Week 4B\Class Apps\CustomMessageBox\CustomMessageBox\bin\Debug\CustomMessageBox.exe
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 4\Week 4B\Class Apps\CustomMessageBox\CustomMessageBox\bin\Debug\CustomMessageBox.pdb
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 4\Week 4B\Class Apps\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.Form1.resources
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 4\Week 4B\Class Apps\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.Properties.Resources.resources
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 4\Week 4B\Class Apps\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.csproj.GenerateResource.cache
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 4\Week 4B\Class Apps\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.csproj.CoreCompileInputs.cache
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 4\Week 4B\Class Apps\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.exe
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 4\Week 4B\Class Apps\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.pdb
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 4\Week 4B\Class Apps\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.csprojAssemblyReference.cache
