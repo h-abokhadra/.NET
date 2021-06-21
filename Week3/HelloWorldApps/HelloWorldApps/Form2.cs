@@ -28,5 +28,10 @@ namespace HelloWorldApps
         {
             textBox3.Text = textBox1.Text;
         }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
