@@ -1,0 +1,10 @@
+C:\Users\MAIN\source\repos\Hoda_Abokhadra\Hoda_Abokhadra\bin\Debug\Hoda_Abokhadra.exe.config
+C:\Users\MAIN\source\repos\Hoda_Abokhadra\Hoda_Abokhadra\bin\Debug\Hoda_Abokhadra.exe
+C:\Users\MAIN\source\repos\Hoda_Abokhadra\Hoda_Abokhadra\bin\Debug\Hoda_Abokhadra.pdb
+C:\Users\MAIN\source\repos\Hoda_Abokhadra\Hoda_Abokhadra\obj\Debug\Hoda_Abokhadra.csprojAssemblyReference.cache
+C:\Users\MAIN\source\repos\Hoda_Abokhadra\Hoda_Abokhadra\obj\Debug\Hoda_Abokhadra.Properties.Resources.resources
+C:\Users\MAIN\source\repos\Hoda_Abokhadra\Hoda_Abokhadra\obj\Debug\Hoda_Abokhadra.csproj.GenerateResource.cache
+C:\Users\MAIN\source\repos\Hoda_Abokhadra\Hoda_Abokhadra\obj\Debug\Hoda_Abokhadra.csproj.CoreCompileInputs.cache
+C:\Users\MAIN\source\repos\Hoda_Abokhadra\Hoda_Abokhadra\obj\Debug\Hoda_Abokhadra.exe
+C:\Users\MAIN\source\repos\Hoda_Abokhadra\Hoda_Abokhadra\obj\Debug\Hoda_Abokhadra.pdb
+C:\Users\MAIN\source\repos\Hoda_Abokhadra\Hoda_Abokhadra\obj\Debug\Hoda_Abokhadra.Form1.resources
