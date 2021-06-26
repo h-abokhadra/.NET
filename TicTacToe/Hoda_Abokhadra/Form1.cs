@@ -103,12 +103,12 @@ namespace Hoda_Abokhadra
 
                 String winnerIs = "";
 
-                if (turnStatus)
+                if (turnStatus) //if true the winner is O
 
                     winnerIs = "O";
-                
-                else
-                
+
+                else             //if false the winner is x
+
                     winnerIs = "X";
                 
 
