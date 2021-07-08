@@ -1,0 +1,7 @@
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 8\Week 8A\ClassApps\StudentsMarks\StudentsMarks\bin\Debug\StudentsMarks.exe.config
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 8\Week 8A\ClassApps\StudentsMarks\StudentsMarks\bin\Debug\StudentsMarks.exe
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 8\Week 8A\ClassApps\StudentsMarks\StudentsMarks\bin\Debug\StudentsMarks.pdb
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 8\Week 8A\ClassApps\StudentsMarks\StudentsMarks\obj\Debug\StudentsMarks.csprojAssemblyReference.cache
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 8\Week 8A\ClassApps\StudentsMarks\StudentsMarks\obj\Debug\StudentsMarks.csproj.CoreCompileInputs.cache
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 8\Week 8A\ClassApps\StudentsMarks\StudentsMarks\obj\Debug\StudentsMarks.exe
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 8\Week 8A\ClassApps\StudentsMarks\StudentsMarks\obj\Debug\StudentsMarks.pdb
