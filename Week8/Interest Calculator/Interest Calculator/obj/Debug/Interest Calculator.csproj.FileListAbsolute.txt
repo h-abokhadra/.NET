@@ -1,0 +1,7 @@
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 8\Week 8A\ClassApps\Interest Calculator\Interest Calculator\bin\Debug\Interest Calculator.exe.config
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 8\Week 8A\ClassApps\Interest Calculator\Interest Calculator\bin\Debug\Interest Calculator.exe
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 8\Week 8A\ClassApps\Interest Calculator\Interest Calculator\bin\Debug\Interest Calculator.pdb
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 8\Week 8A\ClassApps\Interest Calculator\Interest Calculator\obj\Debug\Interest Calculator.csprojAssemblyReference.cache
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 8\Week 8A\ClassApps\Interest Calculator\Interest Calculator\obj\Debug\Interest Calculator.csproj.CoreCompileInputs.cache
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 8\Week 8A\ClassApps\Interest Calculator\Interest Calculator\obj\Debug\Interest Calculator.exe
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 8\Week 8A\ClassApps\Interest Calculator\Interest Calculator\obj\Debug\Interest Calculator.pdb
