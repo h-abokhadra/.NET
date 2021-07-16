@@ -1,0 +1,7 @@
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 9\Week 9A\ClassApps\LinkedListApp\LinkedListApp\bin\Debug\LinkedListApp.exe.config
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 9\Week 9A\ClassApps\LinkedListApp\LinkedListApp\bin\Debug\LinkedListApp.exe
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 9\Week 9A\ClassApps\LinkedListApp\LinkedListApp\bin\Debug\LinkedListApp.pdb
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 9\Week 9A\ClassApps\LinkedListApp\LinkedListApp\obj\Debug\LinkedListApp.csprojAssemblyReference.cache
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 9\Week 9A\ClassApps\LinkedListApp\LinkedListApp\obj\Debug\LinkedListApp.csproj.CoreCompileInputs.cache
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 9\Week 9A\ClassApps\LinkedListApp\LinkedListApp\obj\Debug\LinkedListApp.exe
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 9\Week 9A\ClassApps\LinkedListApp\LinkedListApp\obj\Debug\LinkedListApp.pdb
