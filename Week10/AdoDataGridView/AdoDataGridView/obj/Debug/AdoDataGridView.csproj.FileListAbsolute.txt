@@ -1,0 +1,10 @@
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 10\Week 10A\ClassApps\AdoDataGridView\AdoDataGridView\bin\Debug\AdoDataGridView.exe.config
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 10\Week 10A\ClassApps\AdoDataGridView\AdoDataGridView\bin\Debug\AdoDataGridView.exe
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 10\Week 10A\ClassApps\AdoDataGridView\AdoDataGridView\bin\Debug\AdoDataGridView.pdb
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 10\Week 10A\ClassApps\AdoDataGridView\AdoDataGridView\obj\Debug\AdoDataGridView.csprojAssemblyReference.cache
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 10\Week 10A\ClassApps\AdoDataGridView\AdoDataGridView\obj\Debug\AdoDataGridView.Form1.resources
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 10\Week 10A\ClassApps\AdoDataGridView\AdoDataGridView\obj\Debug\AdoDataGridView.Properties.Resources.resources
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 10\Week 10A\ClassApps\AdoDataGridView\AdoDataGridView\obj\Debug\AdoDataGridView.csproj.GenerateResource.cache
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 10\Week 10A\ClassApps\AdoDataGridView\AdoDataGridView\obj\Debug\AdoDataGridView.csproj.CoreCompileInputs.cache
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 10\Week 10A\ClassApps\AdoDataGridView\AdoDataGridView\obj\Debug\AdoDataGridView.exe
+E:\Sheridan\2021 Summer\PROG32356 .NET Technologies using C#\Slides\Week 10\Week 10A\ClassApps\AdoDataGridView\AdoDataGridView\obj\Debug\AdoDataGridView.pdb
